@@ -7,6 +7,7 @@ public class GitProjectForEclipse {
 		System.out.println("Git Project");
           System.out.println("change 1");
 		System.out.println("change 2");
+		System.out.println("");
 	}
 
 }
